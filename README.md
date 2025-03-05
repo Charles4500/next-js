@@ -17,3 +17,17 @@ npm install
 npm run dev
 
 ```
+
+## Technologies
+
+- Next.js
+- React
+- Typescript
+- Tailwindcss
+
+## Demo Link
+
+[Demo](https://nextjs-learn.vercel.app/)
+```
+
+
